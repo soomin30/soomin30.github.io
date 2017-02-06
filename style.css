@@ -1,0 +1,50 @@
+body {
+
+  margin: 0px;
+ 
+  background-color:white;
+  
+  font-family: Helvetica Neue, Century Gothic;
+ 
+  color: #4D494A; }
+  
+  body a {
+ 
+   color: #F92056;
+   
+   text-decoration: none; }
+ 
+   body a:hover {
+   
+   color: yellow; }
+  
+  body .content {
+ 
+   background: url("dog.jpg") no-repeat top right;
+   
+   height: 1398px;
+
+   width: 1600px;
+    
+   margin: 0 0 0 auto;
+    
+   padding-left: 50px; }
+    
+   body .content h1 {
+  
+     font-weight: normal;
+
+     padding: 25px 0 0;
+     
+     margin: 0px;
+      
+     font-size: 130px; }
+  
+   body .content p {
+      
+     font-size: 20px;
+  
+     margin: 5px 0 10px 10px;
+  
+     padding: 0px; }
+
